@@ -1,1 +1,1 @@
-This is the first git class
+The test file is for demo only
